@@ -1,0 +1,160 @@
+,Pollutant,min,max,std,station_type,resample,station
+0,SO2 - (µg/Nm3),0.02725972199869716,31.529877834707655,4.593332638224028,amb,1h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+1,CO - (µg/Nm3),110.1380075881403,2037.2174635669114,313.53758264494945,amb,1h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+2,NO2 - (µg/Nm3),0.02090794719728965,110.54319394884395,18.573405518081394,amb,1h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+3,O3 - (µg/Nm3),3.104006050323808,142.5756557873938,21.856529136509877,amb,1h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+4,TSP - (µg/Nm3),1.109467773229126,85.6371965904744,16.84154457794251,amb,1h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+5,PM10 - (µg/Nm3),1.1023954686629949,61.52904811448329,12.083642516206096,amb,1h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+6,PM2.5 - (µg/Nm3),0.11330228260106043,31.041736260964136,5.869511741736341,amb,1h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+7,SO2 - (µg/Nm3),0.02886255325004071,31.443144374329727,4.3200746697658925,amb,8h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+8,CO - (µg/Nm3),174.84670811543026,1910.7727741218546,299.22005270552415,amb,8h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+9,NO2 - (µg/Nm3),0.8619963584210535,81.7448325069248,15.624566452684242,amb,8h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+10,O3 - (µg/Nm3),7.470542114655361,117.4699734170226,20.053206431111352,amb,8h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+11,TSP - (µg/Nm3),1.1520664386480668,83.35630093865586,16.421024945057166,amb,8h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+12,PM10 - (µg/Nm3),1.1425104114668179,59.55603113297218,11.739340432272652,amb,8h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+13,PM2.5 - (µg/Nm3),0.12859843655685088,31.041736260964136,5.868556215410984,amb,8h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+14,SO2 - (µg/Nm3),0.02920081433633186,26.70571725494454,3.6134279555755193,amb,24h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+15,CO - (µg/Nm3),186.86738077031646,1676.039734452117,289.2471210284639,amb,24h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+16,NO2 - (µg/Nm3),1.4056713160684309,71.38314268157013,13.569248637565126,amb,24h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+17,O3 - (µg/Nm3),10.888706791614135,110.2860912310016,16.623933988453437,amb,24h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+18,TSP - (µg/Nm3),1.184966951063058,78.28283344097589,15.47016936580075,amb,24h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+19,PM10 - (µg/Nm3),1.1598444609965184,55.353058905546376,11.124054193940133,amb,24h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+20,PM2.5 - (µg/Nm3),0.14785415846462915,25.708043291878994,5.4876804902138305,amb,24h,amb_3. du lieu trung binh_UBND phường Phương Nam Uông Bí năm 2023
+21,SO2 - (µg/Nm3),0.0026297111712859154,103.30094066932199,18.97978369423221,amb,1h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+22,CO - (µg/Nm3),0.714217039561643,5668.847255409988,878.1013848808461,amb,1h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+23,NO2 - (µg/Nm3),0.011132861704698191,65.40079330708345,12.466471666842702,amb,1h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+24,O3 - (µg/Nm3),0.08386917669584888,207.8802599998139,35.689611852668726,amb,1h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+25,TSP - (µg/Nm3),1.618506266515911,102.9082713285888,16.978162838563318,amb,1h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+26,PM10 - (µg/Nm3),0.6327093369980231,51.90098573469638,8.687160775999242,amb,1h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+27,PM2.5 - (µg/Nm3),0.1522389675941775,45.83947654522671,8.39330601456339,amb,1h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+28,SO2 - (µg/Nm3),0.10151139803338856,94.2094298963776,17.853545230480506,amb,8h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+29,CO - (µg/Nm3),2.2176754727543346,5372.090103636791,911.2762816122856,amb,8h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+30,NO2 - (µg/Nm3),0.09188738781771894,58.06162708788721,10.830302349626356,amb,8h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+31,O3 - (µg/Nm3),0.08386917669584888,171.06292131723805,33.11900885925076,amb,8h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+32,TSP - (µg/Nm3),4.637280974438637,97.0547141502048,15.421928929257488,amb,8h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+33,PM10 - (µg/Nm3),1.5524299776819563,50.49263295009414,8.153058260794795,amb,8h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+34,PM2.5 - (µg/Nm3),0.34342692441110856,40.49737092189892,7.837999008631338,amb,8h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+35,SO2 - (µg/Nm3),0.10151139803338856,87.84835923413587,16.544566374137066,amb,24h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+36,CO - (µg/Nm3),2.2176754727543346,5241.426831798365,919.1507878398762,amb,24h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+37,NO2 - (µg/Nm3),0.22722053136727557,50.56708306016051,9.020025570194734,amb,24h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+38,O3 - (µg/Nm3),0.327788844851041,131.72540073507804,29.39231634998407,amb,24h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+39,TSP - (µg/Nm3),5.129839893961157,91.53639689416579,13.820246975927514,amb,24h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+40,PM10 - (µg/Nm3),1.7441166787910738,48.28837922315376,7.47574597892505,amb,24h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+41,PM2.5 - (µg/Nm3),0.6547072321382078,37.27326452798502,7.320571266926126,amb,24h,amb_4. du lieu trung binh_UBND thành phố Uông Bí  năm 2023
+42,NO2 - (µg/Nm3),0.0001,10.1527,2.1662615063244868,amb,1h,amb_v1. Hưng Yên_ số 437 Nguyễn Văn Linh - Tp Hưng Yên
+43,NOx - (µg/Nm3),0.7018,8.4977,1.3502702378028248,amb,1h,amb_v1. Hưng Yên_ số 437 Nguyễn Văn Linh - Tp Hưng Yên
+44,PM10 - (µg/Nm3),20.4792,260.1343,53.05602417082314,amb,1h,amb_v1. Hưng Yên_ số 437 Nguyễn Văn Linh - Tp Hưng Yên
+45,PM2.5 - (µg/Nm3),8.5623,180.0023,35.8777698438295,amb,1h,amb_v1. Hưng Yên_ số 437 Nguyễn Văn Linh - Tp Hưng Yên
+46,NO2 - (µg/Nm3),0.0001,10.1527,2.1662615063244868,amb,8h,amb_v1. Hưng Yên_ số 437 Nguyễn Văn Linh - Tp Hưng Yên
+47,NOx - (µg/Nm3),0.7018,8.4977,1.3502702378028248,amb,8h,amb_v1. Hưng Yên_ số 437 Nguyễn Văn Linh - Tp Hưng Yên
+48,PM10 - (µg/Nm3),20.4792,260.1343,53.05602417082315,amb,8h,amb_v1. Hưng Yên_ số 437 Nguyễn Văn Linh - Tp Hưng Yên
+49,PM2.5 - (µg/Nm3),8.5623,180.0023,35.8777698438295,amb,8h,amb_v1. Hưng Yên_ số 437 Nguyễn Văn Linh - Tp Hưng Yên
+50,NO2 - (µg/Nm3),0.0001,10.1527,2.1662615063244868,amb,24h,amb_v1. Hưng Yên_ số 437 Nguyễn Văn Linh - Tp Hưng Yên
+51,NOx - (µg/Nm3),0.7018,8.4977,1.350270237802825,amb,24h,amb_v1. Hưng Yên_ số 437 Nguyễn Văn Linh - Tp Hưng Yên
+52,PM10 - (µg/Nm3),20.4792,260.1343,53.05602417082315,amb,24h,amb_v1. Hưng Yên_ số 437 Nguyễn Văn Linh - Tp Hưng Yên
+53,PM2.5 - (µg/Nm3),8.5623,180.0023,35.8777698438295,amb,24h,amb_v1. Hưng Yên_ số 437 Nguyễn Văn Linh - Tp Hưng Yên
+54,NO2 - (µg/Nm3),0.0014,41.9793,10.121800127333264,amb,1h,amb_v1.Hải Dương_ UBND TP. Hải Dương - 106 Đường Trần Hưng Đạo (KK)
+55,NOx - (µg/Nm3),0.0001,65.6274,13.123872446040702,amb,1h,amb_v1.Hải Dương_ UBND TP. Hải Dương - 106 Đường Trần Hưng Đạo (KK)
+56,PM10 - (µg/Nm3),17.5711,196.9176,40.10832662710221,amb,1h,amb_v1.Hải Dương_ UBND TP. Hải Dương - 106 Đường Trần Hưng Đạo (KK)
+57,PM2.5 - (µg/Nm3),11.4959,156.3596,29.910404988705107,amb,1h,amb_v1.Hải Dương_ UBND TP. Hải Dương - 106 Đường Trần Hưng Đạo (KK)
+58,NO2 - (µg/Nm3),0.0014,41.9793,10.121800127333264,amb,8h,amb_v1.Hải Dương_ UBND TP. Hải Dương - 106 Đường Trần Hưng Đạo (KK)
+59,NOx - (µg/Nm3),0.0001,65.6274,13.123872446040702,amb,8h,amb_v1.Hải Dương_ UBND TP. Hải Dương - 106 Đường Trần Hưng Đạo (KK)
+60,PM10 - (µg/Nm3),17.5711,196.9176,40.10832662710221,amb,8h,amb_v1.Hải Dương_ UBND TP. Hải Dương - 106 Đường Trần Hưng Đạo (KK)
+61,PM2.5 - (µg/Nm3),11.4959,156.3596,29.910404988705107,amb,8h,amb_v1.Hải Dương_ UBND TP. Hải Dương - 106 Đường Trần Hưng Đạo (KK)
+62,NO2 - (µg/Nm3),0.0014,41.9793,10.121800127333264,amb,24h,amb_v1.Hải Dương_ UBND TP. Hải Dương - 106 Đường Trần Hưng Đạo (KK)
+63,NOx - (µg/Nm3),0.0001,65.6274,13.123872446040702,amb,24h,amb_v1.Hải Dương_ UBND TP. Hải Dương - 106 Đường Trần Hưng Đạo (KK)
+64,PM10 - (µg/Nm3),17.5711,196.9176,40.10832662710221,amb,24h,amb_v1.Hải Dương_ UBND TP. Hải Dương - 106 Đường Trần Hưng Đạo (KK)
+65,PM2.5 - (µg/Nm3),11.4959,156.3596,29.910404988705103,amb,24h,amb_v1.Hải Dương_ UBND TP. Hải Dương - 106 Đường Trần Hưng Đạo (KK)
+66,SO2 - (µg/Nm3),0.393,157.186,51.09998100901524,amb,1h,amb_v1.Quảng Ninh_ Vườn hoa phường Hồng Hà - Hạ Long (KK)_20250603_171848
+67,NO2 - (µg/Nm3),0.8863,15.8854,3.7367137642728627,amb,1h,amb_v1.Quảng Ninh_ Vườn hoa phường Hồng Hà - Hạ Long (KK)_20250603_171848
+68,NOx - (µg/Nm3),1.4673,26.9241,5.240214146527041,amb,1h,amb_v1.Quảng Ninh_ Vườn hoa phường Hồng Hà - Hạ Long (KK)_20250603_171848
+69,PM10 - (µg/Nm3),,,,amb,1h,amb_v1.Quảng Ninh_ Vườn hoa phường Hồng Hà - Hạ Long (KK)_20250603_171848
+70,PM2.5 - (µg/Nm3),,,,amb,1h,amb_v1.Quảng Ninh_ Vườn hoa phường Hồng Hà - Hạ Long (KK)_20250603_171848
+71,PM1.0 - (µg/Nm3),,,,amb,1h,amb_v1.Quảng Ninh_ Vườn hoa phường Hồng Hà - Hạ Long (KK)_20250603_171848
+72,SO2 - (µg/Nm3),0.393,157.186,51.09998100901524,amb,8h,amb_v1.Quảng Ninh_ Vườn hoa phường Hồng Hà - Hạ Long (KK)_20250603_171848
+73,NO2 - (µg/Nm3),0.8863,15.8854,3.7367137642728627,amb,8h,amb_v1.Quảng Ninh_ Vườn hoa phường Hồng Hà - Hạ Long (KK)_20250603_171848
+74,NOx - (µg/Nm3),1.4673,26.9241,5.240214146527041,amb,8h,amb_v1.Quảng Ninh_ Vườn hoa phường Hồng Hà - Hạ Long (KK)_20250603_171848
+75,PM10 - (µg/Nm3),,,,amb,8h,amb_v1.Quảng Ninh_ Vườn hoa phường Hồng Hà - Hạ Long (KK)_20250603_171848
+76,PM2.5 - (µg/Nm3),,,,amb,8h,amb_v1.Quảng Ninh_ Vườn hoa phường Hồng Hà - Hạ Long (KK)_20250603_171848
+77,PM1.0 - (µg/Nm3),,,,amb,8h,amb_v1.Quảng Ninh_ Vườn hoa phường Hồng Hà - Hạ Long (KK)_20250603_171848
+78,SO2 - (µg/Nm3),0.393,157.186,51.09998100901524,amb,24h,amb_v1.Quảng Ninh_ Vườn hoa phường Hồng Hà - Hạ Long (KK)_20250603_171848
+79,NO2 - (µg/Nm3),0.8863,15.8854,3.7367137642728623,amb,24h,amb_v1.Quảng Ninh_ Vườn hoa phường Hồng Hà - Hạ Long (KK)_20250603_171848
+80,NOx - (µg/Nm3),1.4673,26.9241,5.240214146527041,amb,24h,amb_v1.Quảng Ninh_ Vườn hoa phường Hồng Hà - Hạ Long (KK)_20250603_171848
+81,PM10 - (µg/Nm3),,,,amb,24h,amb_v1.Quảng Ninh_ Vườn hoa phường Hồng Hà - Hạ Long (KK)_20250603_171848
+82,PM2.5 - (µg/Nm3),,,,amb,24h,amb_v1.Quảng Ninh_ Vườn hoa phường Hồng Hà - Hạ Long (KK)_20250603_171848
+83,PM1.0 - (µg/Nm3),,,,amb,24h,amb_v1.Quảng Ninh_ Vườn hoa phường Hồng Hà - Hạ Long (KK)_20250603_171848
+84,SO2 - (mg/Nm3),0.0083333333,36.9333333333,5.6889491092206095,ck,1h,ck_7. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 1 2023
+85,CO - (mg/Nm3),0.0083333333,242.909090909,47.68526840148777,ck,1h,ck_7. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 1 2023
+86,NOx - (mg/Nm3),0.0083333333,944.9,153.08072746733154,ck,1h,ck_7. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 1 2023
+87,TSP - (mg/Nm3),3.8285714285,88.2,13.355181745630945,ck,1h,ck_7. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 1 2023
+88,SO2 - (mg/Nm3),0.009090909,35.3555555555,4.322164215152723,ck,8h,ck_7. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 1 2023
+89,CO - (mg/Nm3),0.09375,230.91111111106667,43.38285755723852,ck,8h,ck_7. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 1 2023
+90,NOx - (mg/Nm3),0.07583333328333333,648.15,154.91025577632143,ck,8h,ck_7. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 1 2023
+91,TSP - (mg/Nm3),6.27163961035,53.18354166665,13.172249420344532,ck,8h,ck_7. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 1 2023
+92,SO2 - (mg/Nm3),0.0416666666,25.4333333333,4.160038351828728,ck,24h,ck_7. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 1 2023
+93,CO - (mg/Nm3),0.09743801652727271,198.23717171714,39.03462882927978,ck,24h,ck_7. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 1 2023
+94,NOx - (mg/Nm3),0.18281249995625,553.6117045454167,146.26553027167287,ck,24h,ck_7. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 1 2023
+95,TSP - (mg/Nm3),7.333634259220833,49.218701388862506,12.7138941627314,ck,24h,ck_7. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 1 2023
+96,SO2 - (mg/Nm3),0.0083333333,38.35,9.007284811048464,ck,1h,ck_8. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 2 2023
+97,CO - (mg/Nm3),0.0083333333,294.825,58.47642255227414,ck,1h,ck_8. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 2 2023
+98,NOx - (mg/Nm3),0.0083333333,662.475,151.2173659157908,ck,1h,ck_8. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 2 2023
+99,TSP - (mg/Nm3),5.0333333333,36.4833333333,4.902388322665588,ck,1h,ck_8. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 2 2023
+100,SO2 - (mg/Nm3),0.0083333333,38.2583333333,8.829639515553762,ck,8h,ck_8. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 2 2023
+101,CO - (mg/Nm3),0.0083333333,277.35833333326,56.120154224598984,ck,8h,ck_8. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 2 2023
+102,NOx - (mg/Nm3),0.01249999995,569.895833333275,152.23676654840992,ck,8h,ck_8. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 2 2023
+103,TSP - (mg/Nm3),5.1208333332875,36.22738095232857,4.880522663996751,ck,8h,ck_8. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 2 2023
+104,SO2 - (mg/Nm3),0.0166666666,37.735416666625,8.806069589058733,ck,24h,ck_8. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 2 2023
+105,CO - (mg/Nm3),0.0999999999,243.89436758889568,53.00449934421389,ck,24h,ck_8. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 2 2023
+106,NOx - (mg/Nm3),0.0249999999,499.92395833329164,147.56194765919412,ck,24h,ck_8. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 2 2023
+107,TSP - (mg/Nm3),5.1961805555166665,35.664015151472725,4.84054818206756,ck,24h,ck_8. Du Lieu Trung Binh_Xi Măng Lam Thạch - Lò Nung Clinker 2 2023
+108,SO2 - (mg/Nm3),25.4666666666,409.5999999999,53.672179386580176,coal300,1h,coal300_1. Du Lieu Trung Binh_Nhiệt điện Uông Bí 300 MW 2023
+109,CO - (mg/Nm3),0.175,213.0016666666,36.9125635700007,coal300,1h,coal300_1. Du Lieu Trung Binh_Nhiệt điện Uông Bí 300 MW 2023
+110,NOx - (mg/Nm3),281.0166666666,721.8416666666,55.27014225767503,coal300,1h,coal300_1. Du Lieu Trung Binh_Nhiệt điện Uông Bí 300 MW 2023
+111,TSP - (mg/Nm3),0.5,156.95,26.038774690783274,coal300,1h,coal300_1. Du Lieu Trung Binh_Nhiệt điện Uông Bí 300 MW 2023
+112,SO2 - (mg/Nm3),25.825,331.444318181775,52.338893760181485,coal300,8h,coal300_1. Du Lieu Trung Binh_Nhiệt điện Uông Bí 300 MW 2023
+113,CO - (mg/Nm3),0.62,198.92104166665,32.903436884792356,coal300,8h,coal300_1. Du Lieu Trung Binh_Nhiệt điện Uông Bí 300 MW 2023
+114,NOx - (mg/Nm3),312.0577083333,670.1895833333,50.23987891109824,coal300,8h,coal300_1. Du Lieu Trung Binh_Nhiệt điện Uông Bí 300 MW 2023
+115,TSP - (mg/Nm3),1.0,146.39999999998335,25.159665132685046,coal300,8h,coal300_1. Du Lieu Trung Binh_Nhiệt điện Uông Bí 300 MW 2023
+116,SO2 - (mg/Nm3),26.386111111099996,312.2967857142429,50.57149476589372,coal300,24h,coal300_1. Du Lieu Trung Binh_Nhiệt điện Uông Bí 300 MW 2023
+117,CO - (mg/Nm3),0.62,191.7310087719,27.831254034450584,coal300,24h,coal300_1. Du Lieu Trung Binh_Nhiệt điện Uông Bí 300 MW 2023
+118,NOx - (mg/Nm3),356.749479166625,639.4361111110778,46.02928515681943,coal300,24h,coal300_1. Du Lieu Trung Binh_Nhiệt điện Uông Bí 300 MW 2023
+119,TSP - (mg/Nm3),1.0,117.16725694440834,24.068326301144644,coal300,24h,coal300_1. Du Lieu Trung Binh_Nhiệt điện Uông Bí 300 MW 2023
+120,SO2 - (mg/Nm3),0.3,424.3341666666,55.477782125173505,coalgt300,1h,coalgt300_2. Du Lieu Trung Binh_Nhiệt điện Uông Bí MR2 330 MW 2023
+121,CO - (mg/Nm3),0.1,370.87,62.094046153146074,coalgt300,1h,coalgt300_2. Du Lieu Trung Binh_Nhiệt điện Uông Bí MR2 330 MW 2023
+122,NOx - (mg/Nm3),20.68,770.2408333333,94.07006758813814,coalgt300,1h,coalgt300_2. Du Lieu Trung Binh_Nhiệt điện Uông Bí MR2 330 MW 2023
+123,TSP - (mg/Nm3),0.2,194.3416666666,27.58426940734514,coalgt300,1h,coalgt300_2. Du Lieu Trung Binh_Nhiệt điện Uông Bí MR2 330 MW 2023
+124,SO2 - (mg/Nm3),24.847480519457143,400.3599999999,52.79526665717065,coalgt300,8h,coalgt300_2. Du Lieu Trung Binh_Nhiệt điện Uông Bí MR2 330 MW 2023
+125,CO - (mg/Nm3),0.2,361.44166666665,60.83107629416166,coalgt300,8h,coalgt300_2. Du Lieu Trung Binh_Nhiệt điện Uông Bí MR2 330 MW 2023
+126,NOx - (mg/Nm3),23.214,766.66,96.09605648567597,coalgt300,8h,coalgt300_2. Du Lieu Trung Binh_Nhiệt điện Uông Bí MR2 330 MW 2023
+127,TSP - (mg/Nm3),2.9416666666499998,193.0760416666375,26.31517320273926,coalgt300,8h,coalgt300_2. Du Lieu Trung Binh_Nhiệt điện Uông Bí MR2 330 MW 2023
+128,SO2 - (mg/Nm3),30.15,400.3599999999,49.282335716774874,coalgt300,24h,coalgt300_2. Du Lieu Trung Binh_Nhiệt điện Uông Bí MR2 330 MW 2023
+129,CO - (mg/Nm3),4.571356691870833,273.7011538461133,57.662739178699624,coalgt300,24h,coalgt300_2. Du Lieu Trung Binh_Nhiệt điện Uông Bí MR2 330 MW 2023
+130,NOx - (mg/Nm3),23.214,689.2377813852356,98.76763738602334,coalgt300,24h,coalgt300_2. Du Lieu Trung Binh_Nhiệt điện Uông Bí MR2 330 MW 2023
+131,TSP - (mg/Nm3),5.556111111100001,184.14340277774582,24.96257706558697,coalgt300,24h,coalgt300_2. Du Lieu Trung Binh_Nhiệt điện Uông Bí MR2 330 MW 2023
+132,SO2 - (mg/Nm3),229.06,256.88,3.8073103343897574,coalgt300,1h,coalgt300_Quảng Ninh_ Nhiệt điện Đông Triều 1 (KT)_20240523_122043
+133,NOx - (mg/Nm3),56.5,67.13,1.4030846323917046,coalgt300,1h,coalgt300_Quảng Ninh_ Nhiệt điện Đông Triều 1 (KT)_20240523_122043
+134,TSP - (mg/Nm3),54.13,58.2,0.6722446024313048,coalgt300,1h,coalgt300_Quảng Ninh_ Nhiệt điện Đông Triều 1 (KT)_20240523_122043
+135,SO2 - (mg/Nm3),237.07,255.47,3.079845246399188,coalgt300,8h,coalgt300_Quảng Ninh_ Nhiệt điện Đông Triều 1 (KT)_20240523_122043
+136,NOx - (mg/Nm3),56.98,65.39,1.262980929635548,coalgt300,8h,coalgt300_Quảng Ninh_ Nhiệt điện Đông Triều 1 (KT)_20240523_122043
+137,TSP - (mg/Nm3),54.84,58.0625,0.6143336958304867,coalgt300,8h,coalgt300_Quảng Ninh_ Nhiệt điện Đông Triều 1 (KT)_20240523_122043
+138,SO2 - (mg/Nm3),237.07,251.45823529411766,2.7026763200011956,coalgt300,24h,coalgt300_Quảng Ninh_ Nhiệt điện Đông Triều 1 (KT)_20240523_122043
+139,NOx - (mg/Nm3),59.275000000000006,65.03529411764706,1.0624373866847119,coalgt300,24h,coalgt300_Quảng Ninh_ Nhiệt điện Đông Triều 1 (KT)_20240523_122043
+140,TSP - (mg/Nm3),56.54,57.99791666666667,0.4344293200444067,coalgt300,24h,coalgt300_Quảng Ninh_ Nhiệt điện Đông Triều 1 (KT)_20240523_122043
+141,TSP - (mg/Nm3),13.45,33.1916666666,3.969584458866305,tsp,1h,tsp_10. Du Lieu Trung Binh_Xi Măng Lam Thạch - Nghiền Than 2 2023
+142,TSP - (mg/Nm3),13.7660037878375,32.985101010066664,3.9653575543831776,tsp,8h,tsp_10. Du Lieu Trung Binh_Xi Măng Lam Thạch - Nghiền Than 2 2023
+143,TSP - (mg/Nm3),13.962184343399999,32.627083333274996,3.9094422509960185,tsp,24h,tsp_10. Du Lieu Trung Binh_Xi Măng Lam Thạch - Nghiền Than 2 2023
+144,TSP - (mg/Nm3),14.5499999999,35.0,3.3580973261274742,tsp,1h,tsp_11. Du Lieu Trung Binh_Xi Măng Lam Thạch - Nghiền Xi 1 2023
+145,TSP - (mg/Nm3),15.0567234848375,34.51489898986667,3.346961583904509,tsp,8h,tsp_11. Du Lieu Trung Binh_Xi Măng Lam Thạch - Nghiền Xi 1 2023
+146,TSP - (mg/Nm3),15.588005050483332,33.675649350600004,3.2726755942101358,tsp,24h,tsp_11. Du Lieu Trung Binh_Xi Măng Lam Thạch - Nghiền Xi 1 2023
+147,TSP - (mg/Nm3),13.6,57.9333333333,8.38067703498646,tsp,1h,tsp_12. Du Lieu Trung Binh_Xi Măng Lam Thạch - Nghiền Xi 2 2023
+148,TSP - (mg/Nm3),15.685416666625,56.727651515125004,8.265966005453933,tsp,8h,tsp_12. Du Lieu Trung Binh_Xi Măng Lam Thạch - Nghiền Xi 2 2023
+149,TSP - (mg/Nm3),17.993844696929166,53.6711489898625,8.140579002730698,tsp,24h,tsp_12. Du Lieu Trung Binh_Xi Măng Lam Thạch - Nghiền Xi 2 2023
+150,TSP - (mg/Nm3),17.3,22.5545454545,0.8059238595193046,tsp,1h,tsp_5. Du Lieu Trung Binh_Xi Măng Lam Thạch - Làm Nguội Clinker 1 2023
+151,TSP - (mg/Nm3),17.8396780302875,22.46363636363333,0.7990782790235581,tsp,8h,tsp_5. Du Lieu Trung Binh_Xi Măng Lam Thạch - Làm Nguội Clinker 1 2023
+152,TSP - (mg/Nm3),18.014924242420836,22.46363636363333,0.7715955780762717,tsp,24h,tsp_5. Du Lieu Trung Binh_Xi Măng Lam Thạch - Làm Nguội Clinker 1 2023
+153,TSP - (mg/Nm3),12.0499999999,42.9454545454,6.482439627503157,tsp,1h,tsp_6. Du Lieu Trung Binh_Xi Măng Lam Thạch - Làm nguội clinker 2 2023
+154,TSP - (mg/Nm3),12.29375,40.733333333316665,6.404539098539016,tsp,8h,tsp_6. Du Lieu Trung Binh_Xi Măng Lam Thạch - Làm nguội clinker 2 2023
+155,TSP - (mg/Nm3),12.334460678170833,38.02694805191428,6.335208097133601,tsp,24h,tsp_6. Du Lieu Trung Binh_Xi Măng Lam Thạch - Làm nguội clinker 2 2023
+156,TSP - (mg/Nm3),10.0,21.4166666666,1.6773361930154145,tsp,1h,tsp_9. Du Lieu Trung Binh_Xi Măng Lam Thạch - Nghiền Than 1 2023
+157,TSP - (mg/Nm3),10.224999999975001,20.63333333325,1.611778488680974,tsp,8h,tsp_9. Du Lieu Trung Binh_Xi Măng Lam Thạch - Nghiền Than 1 2023
+158,TSP - (mg/Nm3),10.389015151491668,20.17142857137143,1.5675353708191972,tsp,24h,tsp_9. Du Lieu Trung Binh_Xi Măng Lam Thạch - Nghiền Than 1 2023

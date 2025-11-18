@@ -1,0 +1,62 @@
+SJV001  SOIL01            *           STOCKTON AGRICULTURAL SOIL (PEAT)                      
+SJV002  SOIL03          *     * *   * FRESNO PAVED ROAD                                      
+SJV003  SOIL04                *       VISALIA AGRICULTURAL SOIL (COTTON/WALNUT)              
+SJV004  SOIL05                        VISALIA AGRICULTURAL SOIL (RAISIN)                     
+SJV005  SOIL06                        VISALIA SAND AND GRAVEL                                
+SJV006  SOIL07                        VISALIA URBAN UNPAVED                                  
+SJV007  SOIL08                        VISALIA PAVED ROAD                                     
+SJV008  SOIL09                        BAKERSFIELD AGRICULTURAL SOIL, ALKALINE                
+SJV009  SOIL10                        BAKERSFIELD AGRICULTURAL SOIL, SANDY LOAM              
+SJV010  SOIL11                        BAKERSFIELD UNPAVED ROAD (OILDALE)                     
+SJV011  SOIL12    *                   BAKERSFIELD PAVED ROAD                                 
+SJV012  SOIL13                        BAKERSFIELD WINDBLOWN URBAN UNPAVED                    
+SJV013  SOIL14                        BAKERSFIELD AGRICULTURAL SOIL, WASCO SANDY LOAM        
+SJV014  SOIL15                        BAKERSFIELD AGRICULTURAL SOIL, CAJON SANDY LOAM        
+SJV015  SOIL16                        BAKERSFIELD UNPAVED ROAD (RESIDENTIAL)                 
+SJV016  SOIL17      * *     *   *     TAFT UNPAVED ROAD                                      
+SJV017  BAMAJC    * * * *   *         BAKERSFIED CORDWOOD, MAJESTIC FIREPLACE                
+SJV018  MAMAJC                        MAMMOTH LAKES CORDWOOD, MAJESTIC FIREPLACE             
+SJV019  MAFISC                        BAKERSFIELD CORDWOOD, FISHER MAMA BEAR STOVE           
+SJV020  MADIEC                      * MAMMOTH LAKES DIESEL TOUR BUSES (IDLING)               
+SJV021  BAAGBC                        BAKERSFIELD AGRI. BURN (WHEAT AND BARLEY)              
+SJV022  ELAGBC                      * EL CENTRO AGRI. BURN (WHEAT)                           
+SJV023  FRCONC                  *     FRESNO HIGHWAY 40 CONSTRUCTION                         
+SJV024  STAGBC                        STOCKTON AGRI. BURN (WHEAT)                            
+SJV025  VIAGBC                        VISALIA AGRI BURN (WHEAT)                              
+SJV026  VIDAIC                        VISALIA DAIRY/FEEDLOT DUST                             
+SJV027  SFCRUC    * * * *   *   *     SANTA FE CRUDE BOILER (WESTSIDE KERN COUNTY OILFIELD)  
+SJV028  CHCRUC                    *   CHEVRON RACETRACK CRUDE BOILER (KERN RIVER OILFIELD)   
+SJV029  MOTIBC                        MODESTO TIRE POWER PLANT                               
+SJV030  SCRRFC                   *    STANISLAUS COUNTRY RESOURCE RECOVERY FACILITY          
+SJV031  CDCEMT                *       NBS CEMENT DUST                                        
+SJV032  CDRKCR                    *   ROCK CRUSHING 1987 SCAB                                
+SJV033  CDSAPL                  *   * SANDBLASTING AND PLASTERING                            
+SJV034  MARINE                    *   MARINE                                                 
+SJV035  MOVES1                        MOVES-SS(NEA-E,WOB,T42,TVMT)                           
+SJV036  MOVES2    * * * *   *   *     MOVES-SS(NEA-E,WOB,WOT,TVMT)                           
+SJV038  MOVES3                *       MOVES-SCAB(ARB-E,WOB,WOT,CM)                           
+SJV039  MOVES4                        MOVES-SCAB(NEA-E,WOB,WOT,CM)                           
+SJV040  MOVES5                        MOVES-SCAB(NEA-E,WB1,T42,CM)                           
+SJV041  MPGYDU                *   *   GYPSUM DUST, KILN EL. PRC.(TOTAL FROM CASO4)           
+SJV051  AMSUL     * * * * * *   *     AMMONIUM SULFATE                                       
+SJV052  AMBSUL                    *   AMMONIUM BISULFATE                                     
+SJV053  H2SO4                 *       SULFURIC ACID                                          
+SJV054  AMNIT     * * * * * *     *   AMMONIUM NITRATE                                       
+SJV055  HNO3                          NITRIC ACID                                            
+SJV056  NANO3       * * * * *   *   * SODIUM NITRATE                                         
+SJV057  MD5L2U3S                      50% DIESEL, 20% LEADED, 30% UNLEADED                   
+SJV058  MD7515US              *   *   75% DIESEL, 15% LEADED, 10% UNLEADED                   
+SJV059  MD8510US                      85% DIESEL, 10% LEADED,  5% UNLEADED                   
+SJV060  OC                            PURE ORGANIC CARBON                                    
+SJV061  LIME                        * LIMESTONE                                              
+SJV062  SOIL28                        CROWS LANDING AGRI.                                    
+SJV063  SOIL29                        CROWS LANDING PAVED ROAD                               
+SJV064  SOIL30                        KERN UNPAVED ROAD                                      
+SJV065  SOIL31                        KERN AGRI.                                             
+                 
+
+
+
+
+
+
