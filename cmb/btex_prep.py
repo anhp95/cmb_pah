@@ -16,8 +16,8 @@ def prep_btex_ad_util(df, version):
     df["Total"] = df[used_species].sum(axis=1)
     used_species = ["TMA"] + used_species
 
-    for s in used_species:
-        df[s] = df[s] / df["Total"]
+    # for s in used_species:
+    #     df[s] = df[s] / df["Total"]
 
     species_c = {s: f"{s.upper()}C" for s in used_species}
     species_u = {s: f"{s.upper()}U" for s in used_species}
@@ -25,19 +25,21 @@ def prep_btex_ad_util(df, version):
     keys = ["ID", "DATE", "DUR", "STHOUR", "SIZE"]
 
     mean_df = (
-        df.groupby(["ID", "SIZE", "DATE"], as_index=False)
+        df.groupby(["ID"], as_index=False)
         .mean(numeric_only=True)
         .rename(columns=species_c)
     )
 
     std_df = (
-        df.groupby(["ID", "SIZE", "DATE"], as_index=False)
+        df.groupby(["ID"], as_index=False)
         .sem(numeric_only=True)
         .rename(columns=species_u)
     )
-    result = pd.merge(mean_df, std_df, on=["ID", "SIZE", "DATE"])
-    result["DUR"] = [8] * len(result)
-    result["STHOUR"] = [0] * len(result)
+    result = pd.merge(mean_df, std_df, on=["ID"])
+    result["DATE"] = "**/07/25"
+    result["DUR"] = 8
+    result["STHOUR"] = 0
+    result["SIZE"] = "VOC"
     result = result[
         keys + [f"{s.upper()}{n}" for s in used_species for n in ["C", "U"]]
     ].round(4)
@@ -56,11 +58,22 @@ def prep_btex_ad():
         "Traffic": "TR",
         "Residential": "RS",
     }
+    rename_time = {
+        "morning": "MO",
+        "afternoon": "AF",
+        "evening": "EV",
+    }
+    rename_day = {
+        "Weekday": "WD",
+        "Weekend": "WE",
+    }
     df["Sitetype"] = df["Sitetype"].apply(lambda x: rename_site[x])
+    df["Day"] = df["Day"].apply(lambda x: rename_day[x])
+    df["Time"] = df["Time"].apply(lambda x: rename_time[x])
+
     df["DATE"] = df["ID"].apply(lambda x: x[2:][:2] + "/" + x[2:][2:] + "/25")
     df["ID"] = df["ID"].apply(lambda x: re.sub(r"\d+", "", x).strip())
-    df["ID"] = df["ID"] + df["Sitetype"]
-    df["SIZE"] = "VOC"
+    df["ID"] = df["ID"] + df["Sitetype"] + df["Time"]
 
     df = prep_btex_ad_util(df, version="v3")
     return df

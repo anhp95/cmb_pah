@@ -1,0 +1,66 @@
+FITTING STATISTICS:
+ 
+R SQUARE      1.00                       % MASS     100.9                             
+CHI SQUARE      0.27              DEGREES FREEDOM         1                             
+
+ 
+SOURCE CONTRIBUTION ESTIMATES:
+                                                                                
+SOURCE                                                                          
+EST CODE   NAME     SCE(µg/m³)    Std Err      Tstat                            
+----------------------------------------------------                            
+YES AUTOC  AUTOC      32.43348    7.90010    4.10545                            
+NO  GPRINT GPRINT      1.78734   33.37328    0.05356                            
+NO  GAS92  GAS92      91.67151   30.67869    2.98812                            
+ 
+----------------------------------------------------
+                      125.89233
+                                                                                
+MEASURED CONCENTRATION FOR SIZE: VOC                                            
+     124.8+-     4.5                                                            
+                                                                                
+                   Eligible Space Collinearity Display                          
+================================================================================
+ELIGIBLE SPACE DIM. =   2 FOR MAX. UNC. = 24.96334  (20.% OF TOTAL MEAS. MASS)  
+                                                                                
+1 / Singular Value                                                              
+--------------------------------------------------------------------------------
+ 5.63188  12.23143  44.00049                                                    
+--------------------------------------------------------------------------------
+                                                                                
+NUMBER ESTIMABLE SOURCES =   1 FOR MIN. PROJ. =  0.95                           
+ PROJ. SOURCE   PROJ. SOURCE   PROJ. SOURCE   PROJ. SOURCE   PROJ. SOURCE       
+--------------------------------------------------------------------------------
+0.9998 AUTOC   0.6724 GPRINT  0.7404 GAS92                                      
+--------------------------------------------------------------------------------
+                                                                                
+ESTIMABLE LINEAR COMBINATIONS OF INESTIMABLE SOURCES                            
+COEFF. SOURCE  COEFF. SOURCE  COEFF. SOURCE  COEFF. SOURCE   SCE         Std Err
+--------------------------------------------------------------------------------
+0.6727 GPRINT  0.7400 GAS92                                  69.03475+- 10.93768
+================================================================================
+                                                                                
+SPECIES CONCENTRATIONS:
+                                                         CALCULATED    RESIDUAL
+                                                         ----------  -----------
+SPECIES      FIT       MEASURED          CALCULATED       MEASURED   UNCERTAINTY
+--------------------------------------------------------------------------------
+                                                                                
+TMAC   TMAU     124.81670+- 4.52940 125.89233+-12.64525   1.01+- 0.11     0.1   
+TOLC   TOLU   *  47.34670+- 4.88390  47.81225+- 9.12662   1.01+- 0.22     0.0   
+BENC   BENU   *  20.13330+- 1.36920  19.72508+- 3.85089   0.98+- 0.20    -0.1   
+ETHC   ETHU   *  20.31330+- 1.15390  19.27661+- 2.73287   0.95+- 0.14    -0.3   
+XYLC   XYLU   *  37.02330+- 1.22440  39.07839+- 5.48216   1.06+- 0.15     0.4   
+--------------------------------------------------------------------------------
+                                                                                                
+SOURCE NAME                                  
+SPECIES  CALCULATED  MEASURED   AUTOC  GPRINT GAS92        
+ TMAC       125.892  124.8167   0.260  0.014  0.734       
+ TOLC        47.812   47.3467   0.023  0.024  0.963       
+ BENC        19.725   20.1333   0.016  0.008  0.955       
+ ETHC        19.276   20.3133   0.543  0.009  0.397       
+ XYLC        39.078   37.0233   0.540  0.009  0.507       
+                                                                                
+                                                                                
+                                                                
+                                                                                

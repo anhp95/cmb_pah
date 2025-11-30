@@ -7,16 +7,7 @@ import numpy as np
 
 import pandas as pd
 
-NOT_USED_SPECIES = [
-    # "InP",
-    # "Nap",
-    # "Acy",
-    # "Ace",
-    # "Flu",
-    # "Fla",
-    # "DbA",
-    # "BPer",
-]
+NOT_USED_SPECIES = []
 
 AD_SPECIES = [
     "Nap",
@@ -124,7 +115,7 @@ def prep_src_prf_pah(roi="delhi"):
     Seoul (2007): Ind,
     """
 
-    pr_file_path = f"data/source_profile/{roi}.csv"
+    pr_file_path = f"data/source_profile/pah_{roi}.csv"
     u = 0.2 if roi == "delhi" else 0.15
 
     df = pd.read_csv(pr_file_path)
